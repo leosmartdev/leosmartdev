@@ -1,15 +1,13 @@
 ### Hi there. 👋
 
-## Senior Mobile & Web Developer.
+## Senior Web & Desktop App Developer.
 
-- 🔭 I'm a full time developer.
-- 🌱 I'm a Software Engineer, specialized in Javascript,java,swift.
+- 🔭 I'm a full stack developer.
+- 🌱 I'm a Software Engineer, specialized in Javascript, React, Node.js, Electron.js, Python, Django, Laravel, Blockchain, etc.
 
 ### Connect with me:
 
 [<img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /> live:.cid.894eabf496243817]
-[<img align="left" alt="social-media-profile | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> ]
-<br />
 [<img align="left" alt="social-media-profile | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" /> https://discord.gg/V56G7Vts]
 <br />
 
