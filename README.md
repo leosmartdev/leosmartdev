@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /> live:.cid.894eabf496243817]
+[<img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /> live:.cid.c51ff7673e181be7]
 [<img align="left" alt="social-media-profile | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" /> https://discord.gg/V56G7Vts]
 <br />
 
