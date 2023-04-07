@@ -8,7 +8,8 @@
 ### Connect with me:
 
 [<img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /> live:.cid.c51ff7673e181be7]
-[<img align="left" alt="social-media-profile | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" /> https://discord.gg/V56G7Vts]
+[<img align="left" alt="social-media-profile | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" /> ]
+[<img align="left" alt="social-media-profile | Telegram" width="22px" src="https://www.iconpacks.net/free-icon/telegram-5945.html" /> +1(689) 293-1826]
 <br />
 
 ### Languages and Tools:
