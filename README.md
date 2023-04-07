@@ -1,6 +1,6 @@
 ### Hi there. 👋
 
-## Senior Web | Blockchain | Trading Bot Developer.
+## Full Stack Web | Blockchain | Trading Bot Developer.
 
 - 🔭 I'm a Full Stack Web Developer & familiar with Node.js, Express.js, MongoDB, React.js, Angular, Javascript, Electron.js, PHP, MySQL, laravel, Symfony, Riot.js, Meteor.js, Golang, C/C++, Python, etc.
 - 🌱 I'm a Software Engineer, specialized in Blockchain (Crypto Launchpad, NFT Marketplaces), Trading Bot (Crypto Trading on DEX & CEX, Stock Trading such as Ameritrade), and Software Architecture.
@@ -8,8 +8,8 @@
 ### Connect with me:
 
 [<img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /> live:.cid.c51ff7673e181be7]
-[<img align="left" alt="social-media-profile | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" /> ]
 [<img align="left" alt="social-media-profile | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" /> +1(689) 293-1826]
+[<img align="left" alt="social-media-profile | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" /> ]
 <br />
 
 ### Languages and Tools:
