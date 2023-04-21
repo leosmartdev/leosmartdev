@@ -9,7 +9,7 @@
 
 [<img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /> live:.cid.c51ff7673e181be7]
 [<img align="left" alt="social-media-profile | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" /> +1(689) 293-1826]
-[<img align="left" alt="social-media-profile | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" /> ]
+[<img align="left" alt="social-media-profile | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" /> https://discord.gg/bwafWpnq]
 <br />
 
 ### Languages and Tools:
