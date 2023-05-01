@@ -1,6 +1,6 @@
 ### Hi there. 👋
 
-## Full Stack Web App | Bot & GUI | Blockchain Tech
+## Full Stack Web Developer | Bot & GUI | Blockchain Tech
 
 - 🔭 I'm a Full Stack Web Developer & familiar with Node.js, Express.js, MongoDB, React.js, Angular, Javascript, Electron.js, PHP, MySQL, laravel, Symfony, Riot.js, Meteor.js, Golang, C/C++, Python, etc.
 - 🌱 I'm a Software Engineer, specialized in Blockchain (Crypto Launchpad, NFT Marketplaces), Trading Bot (Crypto Trading on DEX & CEX, Stock Trading such as TDAmeritrade), and Software Architecture.
