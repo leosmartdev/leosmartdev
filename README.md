@@ -70,5 +70,10 @@
 
 ---
 
-<img align="left" alt="canove's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eliben&show_icons=true&hide_border=true&theme=dark&hide_title=true" />
+🏆 **GitHub Trophies**
+
+![](https://github-profile-trophy.vercel.app/?username=kamelorac&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=leostardev&label=Profile%20Views&color=1&icon=4&pretty=true)](https://visitcount.itsvg.in)
 
