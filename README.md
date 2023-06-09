@@ -1,9 +1,11 @@
-### Hi there. 👋
+<h2 align="center" font-weight="bold">
+✨ Welcome 🌟 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
-## Full Stack Web Developer | Bot & GUI | Blockchain Tech
-
-- 🔭 I'm a Full Stack Web Developer & familiar with Node.js, Express.js, MongoDB, React.js, Angular, Javascript, Electron.js, PHP, MySQL, laravel, Symfony, Riot.js, Meteor.js, Golang, C/C++, Python, etc.
-- 🌱 I'm a Software Engineer, specialized in Blockchain (Crypto Launchpad, NFT Marketplaces), Trading Bot (Crypto Trading on DEX & CEX, Stock Trading such as TDAmeritrade), and Software Architecture.
+## Innovative Full Stack Web Developer | Bot & GUI | Blockchain Enthusiast 
+ 
+- 🔭 I'm an innovative Full Stack Web Developer with extensive experience in Node.js, Express.js, MongoDB, React.js, Angular, Javascript, Electron.js, Python, Flask, PHP, MySQL, Laravel, Symfony, Riot.js, Meteor.js, Golang, C/C++, and more. 
+- 🌱 As a Software Engineer, I specialize in creating cutting-edge Bot & GUI solutions, Blockchain technology (including Crypto Launchpad, DApp and NFT Marketplaces), Trading Bot (Crypto Trading on DEX & CEX, Stock Trading such as TDAmeritrade), and Software Architecture. I'm passionate about creating innovative solutions that push the boundaries of what's possible.
 
 ### Connect with me:
 
@@ -14,14 +16,20 @@
 
 ### Languages and Tools:
 
+<img height='25em' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img height='25em' src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img height='25em' src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img height='25em' src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img height='25em' src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img height='25em' src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img height='25em' src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img height='25em' src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img height='25em' src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
+
 <img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
 <img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
 <img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
