@@ -27,7 +27,7 @@
  <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=61DBFB" alt="Redux logo" title="Redux" height="20" />
  <img height='20' src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
  <img src="https://img.shields.io/badge/Next.js-282C34?logo=Next.js&logoColor=41B883" alt="Next.js logo" title="Next.js" height="20" />
- <img height='25em' src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
+ <img height='20' src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
  <img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=41B883" alt="Node.js logo" title="Node.js" height="20" />
  <img src="https://img.shields.io/badge/Express-282C34?logo=Express&logoColor=41B883" alt="Express logo" title="Express" height="20" />
  <img src="https://img.shields.io/badge/Mongodb-282C34?logo=Mongodb&logoColor=41B883" alt="Mongodb logo" title="Mongodb" height="20" />
