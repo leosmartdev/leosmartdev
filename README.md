@@ -1,25 +1,33 @@
-<h2 align="center" font-weight="bold">
-✨ Welcome 🌟
-</h2>
-
 ## Innovative Full Stack Web Developer | Bot & GUI | Blockchain Enthusiast 
  
 - 🔭 I'm an innovative Full Stack Web Developer with extensive experience in Node.js, Express.js, MongoDB, React.js, Angular, Javascript, Electron.js, Python, Flask, PHP, MySQL, Laravel, Symfony, Riot.js, Meteor.js, Golang, C/C++, and more. 
 - 🌱 As a Software Engineer, I specialize in creating cutting-edge Bot & GUI solutions, Blockchain technology (including Crypto Launchpad, DApp and NFT Marketplaces), Trading Bot (Crypto Trading on DEX & CEX, Stock Trading such as TDAmeritrade), and Software Architecture. I'm passionate about creating innovative solutions that push the boundaries of what's possible.
 
-### Connect with me:
+#### How to reach me
 
-[<img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /> live:.cid.c51ff7673e181be7]
-[<img align="left" alt="social-media-profile | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" /> +1(689) 293-1826]
-[<img align="left" alt="social-media-profile | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" /> https://discord.gg/bwafWpnq]
-<br />
+<p align='center'>
+  <a href="mailto:leosmartdev12@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://join.skype.com/invite/vsuycD15wDIa" target="_blank">
+    <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
+  </a>
+  <a href="https://t.me/superdev777">
+    <img src="https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://discord.gg/nddHD6spgv">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
 
-### Languages and Tools:
+#### Languages and Tools:
 
 <p align="left">
  <img src="https://img.shields.io/badge/React-282C34?logo=React&logoColor=61DBFB" alt="React logo" title="React" height="20" />
  <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=61DBFB" alt="Redux logo" title="Redux" height="20" />
+ <img height='20' src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
  <img src="https://img.shields.io/badge/Next.js-282C34?logo=Next.js&logoColor=41B883" alt="Next.js logo" title="Next.js" height="20" />
+ <img height='25em' src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
  <img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=41B883" alt="Node.js logo" title="Node.js" height="20" />
  <img src="https://img.shields.io/badge/Express-282C34?logo=Express&logoColor=41B883" alt="Express logo" title="Express" height="20" />
  <img src="https://img.shields.io/badge/Mongodb-282C34?logo=Mongodb&logoColor=41B883" alt="Mongodb logo" title="Mongodb" height="20" />
@@ -27,6 +35,7 @@
  <img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=41B883" alt="Django logo" title="Django" height="20" />
  <img src="https://img.shields.io/badge/Postgresql-282C34?logo=Postgresql&logoColor=41B883" alt="Postgresql logo" title="Postgresql" height="20" />
  <img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=41B883" alt="PHP logo" title="PHP" height="20" />
+ <img height='20' src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
  <img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=F05032" alt="Laravel logo" title="Laravel" height="20" />
  <img src="https://img.shields.io/badge/Mysql-282C34?logo=Mysql&logoColor=F7DF1E" alt="Mysql logo" title="Mysql" height="20" />
  
