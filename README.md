@@ -3,9 +3,9 @@
 - 🔭 I'm an innovative Full Stack Web Developer with extensive experience in Node.js, Express.js, MongoDB, React.js, Angular, Javascript, Electron.js, Python, Flask, PHP, MySQL, Laravel, Symfony, Riot.js, Meteor.js, Golang, C/C++, and more. 
 - 🌱 As a Software Engineer, I specialize in creating cutting-edge Bot & GUI solutions, Blockchain technology (including Crypto Launchpad, DApp and NFT Marketplaces), Trading Bot (Crypto Trading on DEX & CEX, Stock Trading such as TDAmeritrade), and Software Architecture. I'm passionate about creating innovative solutions that push the boundaries of what's possible.
 
-#### How to reach me
+### How to reach me
 
-<p align='center'>
+<p align='left'>
   <a href="mailto:leosmartdev12@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-#### Languages and Tools:
+### Languages and Tools:
 
 <p align="left">
  <img src="https://img.shields.io/badge/React-282C34?logo=React&logoColor=61DBFB" alt="React logo" title="React" height="20" />
