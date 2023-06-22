@@ -1,7 +1,21 @@
 ## Innovative Full Stack Web Developer | Bot & GUI | Blockchain Enthusiast 
- 
-- 🔭 I'm an innovative Full Stack Web Developer with extensive experience in Node.js, Express.js, MongoDB, React.js, Angular, Javascript, Electron.js, Python, Flask, PHP, MySQL, Laravel, Symfony, Riot.js, Meteor.js, Golang, C/C++, and more. 
-- 🌱 As a Software Engineer, I specialize in creating cutting-edge Bot & GUI solutions, Blockchain technology (including Crypto Launchpad, DApp and NFT Marketplaces), Trading Bot (Crypto Trading on DEX & CEX, Stock Trading such as TDAmeritrade), and Software Architecture. I'm passionate about creating innovative solutions that push the boundaries of what's possible.
+
+<table border="0" align="center">
+ <tr>
+    <td width="250">
+      <a href="https://app.daily.dev/leonziorossi" target="_blank">
+        <img src="https://github.com/leosmartdev/leosmartdev/blob/main/devcard.svg" width="100%" alt="Leonzio Rossi's Dev Card"/>
+      </a>
+    </td>
+    <td width="500">
+      <p>
+        - 🔭 I'm an innovative Full Stack Web Developer with extensive experience in Node.js, Express.js, MongoDB, React.js, Angular, Javascript, Electron.js, Python, Flask, PHP, MySQL, Laravel, Symfony, Riot.js, Meteor.js, Golang, C/C++, and more. 
+        <br>
+        - 🌱 As a Software Engineer, I specialize in creating cutting-edge Bot & GUI solutions, Blockchain technology (including Crypto Launchpad, DApp and NFT Marketplaces), Trading Bot (Crypto Trading on DEX & CEX, Stock Trading such as TDAmeritrade), and Software Architecture. I'm passionate about creating innovative solutions that push the boundaries of what's possible.
+      </p>
+    </td>
+ </tr>
+</table>
 
 ### How to reach me
 
