@@ -1,4 +1,4 @@
-## Innovative Full Stack Developer | Bot & GUI | Blockchain Enthusiast 
+## Innovative Full Stack | Bot & GUI | Automation | Blockchain Enthusiast 
 
 <table border="0" align="center">
  <tr>
