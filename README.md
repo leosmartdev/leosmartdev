@@ -1,12 +1,18 @@
-## Senior Full Stack | Automation | Bot & GUI | Blockchain Enthusiast 
+## Senior Full Stack Developer | Automation Architect | Blockchain Innovator 🚀 
 
 <table border="0" align="center">
  <tr>
     <td width="60%">
       <p>
-        - 🔭 I'm an innovative Full Stack Web Developer with extensive experience in Node.js, Express.js, MongoDB, React.js, Angular, Javascript, Electron.js, Python, Flask, PHP, MySQL, Laravel, Symfony, Riot.js, Meteor.js, Golang, C/C++, and more. 
-        <br>
-        - 🌱 As a Software Engineer, I specialize in creating cutting-edge Bot & GUI solutions, Blockchain technology (including Crypto Launchpad, DApp and NFT Marketplaces), Trading Bot (Crypto Trading on DEX & CEX, Stock Trading such as TDAmeritrade), and Software Architecture. I'm passionate about creating innovative solutions that push the boundaries of what's possible.
+       🔭 Innovative problem-solver and Full Stack Engineer with a deep passion for automation, bot development, and blockchain technology. With a diverse tech stack spanning Node.js, Express.js, MongoDB, React.js, Angular, Python, Flask, PHP, Laravel, Symfony, Electron.js, Golang, and C/C++, I thrive on architecting scalable, high-performance systems that redefine efficiency.
+       <br>
+       🌱 Automation & AI-Driven Solutions: I specialize in intelligent bot development, GUI automation, and AI-driven trading bots—powering seamless crypto and stock trading across DEXs, CEXs, and platforms like TD Ameritrade. My expertise extends to automating workflows, optimizing execution strategies, and enhancing user interactions with intuitive GUI designs.
+       <br>
+       🔗 Blockchain Enthusiast & Web3 Innovator: Passionate about decentralized ecosystems, I've worked on Crypto Launchpads, DApps, NFT Marketplaces, Smart Contracts, and blockchain-based automation, leveraging Solidity, Web3.js, and IPFS. I believe in building trustless, transparent, and high-performance Web3 applications that revolutionize digital ownership and finance.
+       <br>
+       🛠 Software Architecture & Performance Engineering: My experience includes designing scalable microservices, optimizing backend performance, and enhancing security measures across complex infrastructures. Whether it's high-frequency trading algorithms, enterprise automation tools, or robust API integrations, I strive to push boundaries and deliver next-gen solutions.
+       <br>
+       💡 Passion for Innovation & Continuous Learning: I'm driven by cutting-edge tech and constantly exploring new frameworks, AI-driven automation, and decentralized applications to stay ahead in the evolving tech landscape. Let's build the future—one innovative solution at a time! 🚀
       </p>
     </td>
     <td width="40%" align="center">
