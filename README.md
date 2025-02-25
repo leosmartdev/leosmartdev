@@ -1,4 +1,4 @@
-## Innovative Full Stack | Bot & GUI | Automation | Blockchain Enthusiast 
+## Senior Full Stack | Automation | Bot & GUI | Blockchain Enthusiast 
 
 <table border="0" align="center">
  <tr>
