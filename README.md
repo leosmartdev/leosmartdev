@@ -32,7 +32,7 @@
   <a href="https://join.skype.com/invite/vsuycD15wDIa" target="_blank">
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
-  <a href="https://t.me/smartR12">
+  <a href="https://t.me/unicornR12">
     <img src="https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 <!--   <a href="https://discord.gg/nddHD6spgv">
