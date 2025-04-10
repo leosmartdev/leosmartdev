@@ -1,4 +1,4 @@
-## Senior Full Stack Developer | Automation Architect | Blockchain Innovator 🚀 
+## Senior Full Stack Developer | Software Architecture | Automation Architect 🚀 
 
 <table border="0" align="center">
  <tr>
