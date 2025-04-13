@@ -4,15 +4,7 @@
  <tr>
     <td width="100%">
       <p>
-       🔭 Innovative problem-solver and Full Stack Engineer with a deep passion for automation, bot development, and blockchain technology. With a diverse tech stack spanning Node.js, Express.js, MongoDB, React.js, Angular, Python, Flask, PHP, Laravel, Symfony, Electron.js, Golang, and C/C++, I thrive on architecting scalable, high-performance systems that redefine efficiency.
-       <br>
-       🌱 Automation & AI-Driven Solutions: I specialize in intelligent bot development, GUI automation, and AI-driven trading bots—powering seamless crypto and stock trading across DEXs, CEXs, and platforms like TD Ameritrade. My expertise extends to automating workflows, optimizing execution strategies, and enhancing user interactions with intuitive GUI designs.
-       <br>
-       🔗 Blockchain Enthusiast & Web3 Innovator: Passionate about decentralized ecosystems, I've worked on Crypto Launchpads, DApps, NFT Marketplaces, Smart Contracts, and blockchain-based automation, leveraging Solidity, Web3.js, and IPFS. I believe in building trustless, transparent, and high-performance Web3 applications that revolutionize digital ownership and finance.
-       <br>
-       🛠 Software Architecture & Performance Engineering: My experience includes designing scalable microservices, optimizing backend performance, and enhancing security measures across complex infrastructures. Whether it's high-frequency trading algorithms, enterprise automation tools, or robust API integrations, I strive to push boundaries and deliver next-gen solutions.
-       <br>
-       💡 Passion for Innovation & Continuous Learning: I'm driven by cutting-edge tech and constantly exploring new frameworks, AI-driven automation, and decentralized applications to stay ahead in the evolving tech landscape. Let's build the future—one innovative solution at a time! 🚀
+       Senior Software Engineer with strong experience in web applications, app development, automation, and blockchain technology. I work with modern web stacks like Node.js, Express, React, Angular, and Python (Flask), as well as PHP frameworks like Laravel and Symfony. I also build desktop apps with Electron.js and backends in Golang and C/C++. On the mobile side, I develop native Android and iOS apps using Java/Kotlin and Swift/Objective-C, and cross-platform apps using Flutter and React Native. I specialize in building automation tools—especially bots for trading and GUI automation. I’ve developed AI-driven bots for crypto and stock trading (DEXs, CEXs, TD Ameritrade), and tools for automating workflows and UI interactions. In web development, I’ve built everything from responsive websites and SPAs to high-performance backends and admin dashboards. I focus on clean, scalable architecture and seamless user experience across desktop and mobile. I’m also experienced in blockchain and Web3 development, including smart contracts, DApps, NFT marketplaces, and automation tools using Solidity, Web3.js, and IPFS. Always exploring new technologies and frameworks, I enjoy solving real-world problems with clean, efficient code—whether it’s a web app, mobile app, or automation system.
       </p>
     </td>
  </tr>
