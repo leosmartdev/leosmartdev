@@ -2,7 +2,7 @@
 
 <table border="0" align="center">
  <tr>
-    <td width="60%">
+    <td width="100%">
       <p>
        🔭 Innovative problem-solver and Full Stack Engineer with a deep passion for automation, bot development, and blockchain technology. With a diverse tech stack spanning Node.js, Express.js, MongoDB, React.js, Angular, Python, Flask, PHP, Laravel, Symfony, Electron.js, Golang, and C/C++, I thrive on architecting scalable, high-performance systems that redefine efficiency.
        <br>
@@ -14,11 +14,6 @@
        <br>
        💡 Passion for Innovation & Continuous Learning: I'm driven by cutting-edge tech and constantly exploring new frameworks, AI-driven automation, and decentralized applications to stay ahead in the evolving tech landscape. Let's build the future—one innovative solution at a time! 🚀
       </p>
-    </td>
-    <td width="40%" align="center">
-      <a href="https://app.daily.dev/leonziorossi" target="_blank">
-        <img src="https://github.com/leosmartdev/leosmartdev/blob/main/devcard.svg" width="250" alt="Leonzio Rossi's Dev Card"/>
-      </a>
     </td>
  </tr>
 </table>
